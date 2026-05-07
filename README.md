@@ -253,15 +253,9 @@ sorting-benchmark/
 │
 ├── images/
 │   ├── benchmark.png
-│   ├── memory.png
-│   └── cpu.png
-│
-├── results/
-│   ├── experiment.log
-│   └── experiment_results.csv
-│
-└── reports/
-    └── report.pdf
+│   ├── boxplot.png
+│   └── performance_analysis.png
+
 ```
 
 ---
